@@ -1,3 +1,5 @@
-Status: Online
+Game: Valorant
+
+Status: OFFLINE
 Atualizado: 14/09/2024
 Owner: Professor.exee
